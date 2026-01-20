@@ -1,6 +1,6 @@
 # BEAR (Beam-Search-Aware Regularization)
 
-This is the official implementation of our **WWW 2026 Submission** paper:
+This is the official implementation of our **SIGIR 2026 Submission** paper:
 
 > **BEAR: Towards Beam-Search-Aware Optimization for Recommendation with Large Language Models**
 
